@@ -1,2 +1,2 @@
 # Machine-Learning
-This is new folder.
+This folder contains ML algorithms.
